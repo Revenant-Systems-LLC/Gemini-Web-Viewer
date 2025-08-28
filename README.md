@@ -1,4 +1,4 @@
-# Iris: A Conversational Web Assistant (Powered by Gemini)
+# Iris: A  (Powered by Gemini)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
@@ -8,33 +8,33 @@ Iris is a sophisticated Tampermonkey userscript that embeds a conversational AI 
 
 ---
 
-## ✨ Features
+## Features
 
 * **Context-Aware Conversations**: Automatically reads the main text of a webpage to provide relevant answers.
-* **🧠 Conversational Memory**: Remembers previous questions and answers for natural, follow-up interactions.
-* **🎯 Selected Text Analysis**: Highlight any text on a page to focus the conversation specifically on that snippet.
-* **🖥️ Polished & Draggable UI**: A clean, modern chat interface that you can move anywhere on the screen.
-* **🔒 Secure API Key Management**: Uses a local Node.js proxy server to keep your Google Gemini API key completely secure and off the client-side.
-* **📝 Markdown Rendering**: Displays formatted responses, including code blocks, lists, and emphasis.
-* **🤖 AI Model Selection**: Easily switch between different Gemini models (e.g., 1.5 Flash, 1.5 Pro) directly from the UI.
+* **Conversational Memory**: Remembers previous questions and answers for natural, follow-up interactions.
+* **Selected Text Analysis**: Highlight any text on a page to focus the conversation specifically on that snippet.
+* **Polished & Draggable UI**: A clean, modern chat interface that you can move anywhere on the screen.
+* **Secure API Key Management**: Uses a local Node.js proxy server to keep your Google Gemini API key completely secure and off the client-side.
+* **Markdown Rendering**: Displays formatted responses, including code blocks, lists, and emphasis.
+* **AI Model Selection**: Easily switch between different Gemini models (e.g., 1.5 Flash, 1.5 Pro) directly from the UI.
 
 ---
 
-## 💡 Project Motivation
+## Project Motivation
 
 This project was born from a simple idea: to give a large language model "eyes" to see the web. I wanted to break the barrier of the isolated chat window and create a tool that could perceive and discuss the content I was actively browsing. Iris is the result—a seamless bridge between the user, the web, and the power of generative AI.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-* **Frontend**: JavaScript (ES6+), Tampermonkey
-* **Backend Proxy**: Node.js, Express.js
-* **AI**: Google Gemini API
+**Frontend**: JavaScript (ES6+), Tampermonkey
+**Backend Proxy**: Node.js, Express.js
+**AI**: Google Gemini API
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 This project has two components that need to be set up: the **Backend Proxy** (to handle the API key) and the **Userscript** (the tool itself).
 
