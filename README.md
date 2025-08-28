@@ -76,7 +76,7 @@ The proxy server runs locally on your machine to securely manage your API key.
 
 ---
 
-## ใช้งาน
+## Usage
 
 Once installed and with the proxy running, a star icon (✧) will appear in the bottom-right corner of any webpage.
 
