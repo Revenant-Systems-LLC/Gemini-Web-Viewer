@@ -34,7 +34,7 @@ This project was born from a simple idea: to give a large language model "eyes" 
 
 ---
 
-## Installation & Setup
+## 🚀 Installation & Setup
 
 This project has two components that need to be set up: the **Backend Proxy** (to handle the API key) and the **Userscript** (the tool itself).
 
@@ -65,6 +65,14 @@ The proxy server runs locally on your machine to securely manage your API key.
     node server.js
     ```
     The server will now be running on `http://localhost:3000`. You must keep this server running in the background while using the userscript.
+
+### Part 2: The Userscript (Frontend)
+
+1.  Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension for your browser (Chrome, Firefox, Edge, etc.).
+2.  Make sure your local proxy server from Part 1 is running.
+3.  Navigate to the [`iris-web-viewer.user.js`](https://github.com/Revenant-Systems-LLC/Gemini-Web-Viewer/blob/main/iris-web-viewer.user.js) file in this repository.
+4.  Click the **"Raw"** button at the top right of the file view.
+5.  Tampermonkey will open a new tab and prompt you to install the script. Click **"Install."**
 
 ### Part 2: The Userscript (Frontend)
 
