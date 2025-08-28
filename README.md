@@ -8,14 +8,6 @@ Iris is a sophisticated Tampermonkey userscript that embeds a conversational AI 
 
 ---
 
-### Demo
-
-*[A short GIF demonstrating the chat window opening, asking a question about a webpage, and receiving a response would be highly effective here. I recommend creating one using a tool like Giphy Capture or ScreenToGif.]*
-
-![Iris in Action](https://your-link-to-a-demo-gif.gif)
-
----
-
 ## ✨ Features
 
 * **Context-Aware Conversations**: Automatically reads the main text of a webpage to provide relevant answers.
