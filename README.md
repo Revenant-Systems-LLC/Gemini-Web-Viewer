@@ -1,4 +1,4 @@
-# Iris: A Portal for Gemini "See" The Web in Real Time  (Powered by Gemini)
+# Iris: A Portal For Gemini To "See" The Web In Real Time  (Powered by Gemini)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
