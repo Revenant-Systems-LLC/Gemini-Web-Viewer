@@ -44,7 +44,7 @@ The proxy server runs locally on your machine to securely manage your API key.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Revenant-Systems-LLC/Gemini-Web-Viewer.git](https://github.com/Revenant-Systems-LLC/Gemini-Web-Viewer.git)
+    git clone https://github.com/Revenant-Systems-LLC/Gemini-Web-Viewer.git
     ```
 2.  **Navigate to the proxy directory:**
     ```bash
